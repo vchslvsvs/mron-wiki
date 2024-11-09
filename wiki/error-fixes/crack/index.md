@@ -5,7 +5,7 @@ prev:
 
 next:
   text: 'Retail errors'
-  link: '/wiki/error-fixes/retail'
+  link: '/wiki/error-fixes/retail   '
 ---
 
 # 1.20 crack fixes

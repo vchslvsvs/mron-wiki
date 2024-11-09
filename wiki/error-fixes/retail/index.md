@@ -16,7 +16,7 @@ Retry once. Update Graphic Card drivers. Ask your GPU's compatibility in our dis
 
 ## Initialization error (driver init error)
 
-Go to BIOS. Disable Secure Boot and TPM Trusted Module. Disable Fast Boot. Disable Windows Defender and delete all antiviruses. Launch sewi.exe only as admin. Disable memory integrity. Disable Hyper V. Enable CPU Virtualization. Delete Valorant and Faceit. Open this file as admin and 3 times type yes and press enter in it (also known as windows 11 fix).
+Go to BIOS. Disable Secure Boot and TPM Trusted Module. Disable Fast Boot. Disable Windows Defender and delete all antiviruses. Launch sewi.exe only as admin. Disable memory integrity. Disable Hyper V. Enable CPU Virtualization. Delete Valorant and Faceit. Open [this](https://cdn.discordapp.com/attachments/1261191503305379902/1304896773487067166/ALLFIX.bat?ex=67310f52&is=672fbdd2&hm=b6cc91a817a42b5abc5e0c8b90816e59517aaa223e9339bd7b461223eca73460&) file as admin and 3 times type yes and press enter in it (also known as windows 11 fix).
 
 ## Crash mid-game / during warmup
 
