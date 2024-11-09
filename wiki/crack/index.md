@@ -6,7 +6,7 @@
  
 ## How to install MRON Mod
 
-- Join in our Discord Server | [TAP](discord.gg/mronwarzone)
+- Join in our Discord Server | [TAP](https://discord.gg/mronwarzone)
 
 - Download MRON Launcher in [#download](https://discord.com/channels/1200341267654135838/1216137479824867438/1300952284536115271)
 

@@ -8,7 +8,7 @@
 ## How to play Rebirth Island / Fortune's Keep / Caldera
 
 ### Steps to play
-- Join in our Discord | [TAP](discord.gg/mronwarzone)
+- Join in our Discord | [TAP](https://discord.gg/mronwarzone)
 
 - Download AIO in [#download](https://discord.com/channels/1200341267654135838/1216137479824867438/1300952284536115271).
 
