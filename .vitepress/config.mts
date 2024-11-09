@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MRON Wiki v1.0.0",
   description: "All answers to your questions",
+  ignoreDeadLinks: true,
   base: "/mron-wiki",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
