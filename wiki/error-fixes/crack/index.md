@@ -1,3 +1,13 @@
+---
+prev:
+  text: 'Common error fixes'
+  link: '/wiki/error-fixes'
+
+next:
+  text: 'Retail errors'
+  link: '/wiki/error-fixes/retail'
+---
+
 # 1.20 crack fixes
 
 ## E-TACT CLIENT ERROR E_STORAGE_INT (25)

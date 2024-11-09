@@ -1,3 +1,13 @@
+---
+prev:
+  text: 'About'
+  link: '/wiki/about-us'
+
+next:
+  text: 'Retail Info'
+  link: '/wiki/retail'
+---
+
 # MRON Mod 
 
 - Install MW2019 from our Discord (.rar archive and torrent is just a two ways of downloading a game. Use the most convident way for you)

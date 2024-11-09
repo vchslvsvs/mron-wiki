@@ -1,3 +1,13 @@
+---
+prev:
+  text: 'Crack and MRON Mod'
+  link: '/wiki/about-us'
+
+next:
+  text: 'Common error fixes'
+  link: '/wiki/error-fixes'
+---
+
 # Retail AIO Info
 
 <br/>

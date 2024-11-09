@@ -1,3 +1,13 @@
+---
+prev:
+  text: 'Crack errors'
+  link: '/wiki/error-fixes/crack'
+
+next:
+  text: 'Launcher errors'
+  link: '/wiki/error-fixes/launcher'
+---
+
 # Retail AIO fixes
 
 ## Crash on inject

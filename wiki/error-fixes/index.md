@@ -1,3 +1,8 @@
+---
+prev: false
+next: false
+---
+
 # Common error fixes
 
 

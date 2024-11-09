@@ -1,3 +1,9 @@
+---
+next:
+  text: 'About MRON'
+  link: '/wiki/about-us'
+---
+
 # Navigation headers
 
 Use the links below to access the topic of your interest

@@ -1,3 +1,11 @@
+---
+prev:
+  text: 'Retail errors'
+  link: '/wiki/error-fixes/retail'
+
+next: false
+---
+
 # Launcher commonly errors
 
 <hr/>
