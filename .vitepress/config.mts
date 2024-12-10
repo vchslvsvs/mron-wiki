@@ -1,9 +1,7 @@
 import { defineConfig } from 'vitepress'
-export default {
-  ignoreDeadLinks: true
-}
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
+
+ // https://vitepress.dev/reference/site-config
+export default { defineConfig }
   title: "MRON Wiki",
   description: "All answers to your questions",
   themeConfig: {
