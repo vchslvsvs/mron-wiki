@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
  // https://vitepress.dev/reference/site-config
 export default { defineConfig }
   title: "MRON Wiki",
-  description: "All answers to your questions",
+  description; "All answers to your questions",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
