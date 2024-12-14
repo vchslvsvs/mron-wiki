@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "MRON Wiki v1.0.0",
@@ -12,7 +11,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Wiki', link: '/wiki' }
     ],
-
     sidebar: [
       {
         text: 'Welcome',
@@ -42,7 +40,6 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Ma3axucTKa/MRON-Mod' },
       { icon: 'discord', link: 'https://discord.gg/mronwarzone' }
