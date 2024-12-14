@@ -35,8 +35,7 @@ export default defineConfig({
         text: 'Common error fixes',
         items: [
           { text: 'MW19 Crack', link: '/wiki/error-fixes/crack' },
-          { text: 'MW19 Retail', link: '/wiki/error-fixes/retail' },
-          { text: 'Launcher', link: "/wiki/error-fixes/launcher"}
+          { text: 'MW19 Retail', link: '/wiki/error-fixes/retail' }
         ]
       }
     ],
