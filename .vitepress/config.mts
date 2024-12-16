@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "MRON Wiki v1.0.0",
+  title: "MRON Wiki",
   description: "All answers to your questions",
   ignoreDeadLinks: true,
   base: "/mron-wiki/",
